@@ -2,6 +2,9 @@
 
 Criar pasta em /var/log/server no windows criar em C:/var/log/server 
 
+###### Listening
+Escutando na porta 9000
+
 ### A estrutura de mensagens do protocolo é composta pelos seguintes campos:
 
   INIT - Indica o início da mensagem  - 1 byte
