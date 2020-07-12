@@ -1,6 +1,6 @@
 # server-tcp
 
-Criar pasta em /var/log/server no windows criar em C:/var/log/server 
+Criar pasta para arquivo de log em /var/log/server no windows criar em C:/var/log/server 
 
 ###### Listening
 Escutando na porta 9000
